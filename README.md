@@ -2,7 +2,7 @@
 - 👀 I’m interested in giving my best code sources.
 - 🌱 I’m currently learning Android and cloud computing
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me @computerkangal 
+- 📫 Reach me @priyakarthick205@gmail.com
 
 <!---
 Priyakarthick-gtlich/Priyakarthick-gtlich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
